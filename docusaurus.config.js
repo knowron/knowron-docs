@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'KNOWRON Documentation',
+  tagline: 'Making organizational knowledge easily acccesible.',
   url: 'https://knowron-docs.github.io',
   baseUrl: '/knowron-docs/',
   onBrokenLinks: 'throw',
