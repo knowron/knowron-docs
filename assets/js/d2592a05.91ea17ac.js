@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknowron_docs=self.webpackChunkknowron_docs||[]).push([[2097],{6672:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/knowron-docs/blog/tags/docusaurus","allTagsPath":"/knowron-docs/blog/tags","count":4}')}}]);
